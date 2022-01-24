@@ -1,5 +1,5 @@
 # WebhookSpammer
-Spam discord webhooks with this simple and efficient python script.
+Test if discord webhooks are alive or send webhook messages with 2 simple python scripts.
 
 You can input anyones discord webhook with this script by inputting their webhooks URL.
 Send webhook messages: `python index.py`
