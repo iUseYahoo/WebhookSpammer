@@ -2,7 +2,8 @@
 Spam discord webhooks with this simple and efficient python script.
 
 You can input anyones discord webhook with this script by inputting their webhooks URL.
-Running the script: `python index.py`
+Send webhook messages: `python index.py`
+Test webhooks: `python webhook_tester.py`
 
 You can also change this script to mass send messages with a loop.
 
